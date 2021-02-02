@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico');
+
+.cont {
+    padding-top: 20px;
+}
+
+.jumbo {
+    background-image: url("./logo.jpg");
+    background-size: cover;
+    font-family: 'Pacifico';
+    text-align: center;
+    margin-top: 10px;;
+    height: 485px;
+
+}

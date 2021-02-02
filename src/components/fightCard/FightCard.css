@@ -1,0 +1,14 @@
+.card {
+    width: 288px;
+    margin-bottom: 100px;
+}
+
+ .youTubeLink {
+     color: white;
+     text-decoration: none;
+ }
+
+.youTubeLink:hover {
+    color: white;
+    text-decoration: none;
+}
