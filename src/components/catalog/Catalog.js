@@ -14,6 +14,7 @@ const Catalog = (props) => {
                     image={fight.image}
                     title={fight.title}
                     description={fight.description}
+                    button={fight.button}
                 />
             ))}
         </div>
