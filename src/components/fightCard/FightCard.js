@@ -19,11 +19,3 @@ const FightCard = (props) => {
 };
 
 export default FightCard;
-
-//https://www.youtube.com/watch?v=Aa-H4eJ-doU
-
-//             <Button variant="danger">
-//                 <a className="youTubeLink" href="https://www.youtube.com/watch?v=Aa-H4eJ-doU" target="_blank" rel="noopener noreferrer">Obejrzyj na YouTube</a>
-//             </Button>
-
-//            <Card.Button variant="danger">{props.button}</Card.Button>
