@@ -70,7 +70,7 @@ export const fights = [
     id: 4,
     image: WilderFury1,
     title: "Tyson Fury vs. Deontay Wilder",
-    description: "Tyson Fury vs Deontay Wilder (Full Fight).",
+    description: "Tyson Fury vs. Deontay Wilder (Full Fight).",
     button: (
       <a
         className="youTubeLink"
@@ -87,7 +87,7 @@ export const fights = [
     id: 5,
     image: WilderFury2,
     title: "Tyson Fury vs. Deontay Wilder 2",
-    description: "Tyson Fury vs Deontay Wilder 2 HD FULL FIGHT.",
+    description: "Tyson Fury vs. Deontay Wilder 2 HD FULL FIGHT.",
     button: (
       <a
         className="youTubeLink"
@@ -122,7 +122,7 @@ export const fights = [
     id: 7,
     image: GolovkinSzeremeta,
     title: "Gennadiy Golovkin vs. Kamil Szeremeta",
-    description: "Gennadiy Golovkin vs Kamil Szeremeta FULL FIGHT",
+    description: "Gennadiy Golovkin vs. Kamil Szeremeta FULL FIGHT",
     button: (
       <a
         className="youTubeLink"
@@ -190,7 +190,7 @@ export const fights = [
     id: 11,
     image: AdamekBriggs,
     title: "Tomasz Adamek vs. Paul Briggs",
-    description: "Tomasz Adamek vs Paul Briggs FULL FIGHT",
+    description: "Tomasz Adamek vs. Paul Briggs FULL FIGHT",
     button: (
       <a
         className="youTubeLink"
@@ -224,7 +224,7 @@ export const fights = [
     id: 13,
     image: AdamekBriggs2,
     title: "Tomasz Adamek vs. Paul Briggs 2",
-    description: "Tomasz Adamek vs Paul Briggs 2 FULL FIGHT.",
+    description: "Tomasz Adamek vs. Paul Briggs 2 FULL FIGHT.",
     button: (
       <a
         className="youTubeLink"
