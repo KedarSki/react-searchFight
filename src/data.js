@@ -14,6 +14,9 @@ import LewisKlitchko from "./img/LewisKlitchko.jpg";
 import MichalczewskiPiper from "./img/MichalczewskiPiper.jpg";
 import WilderFury1 from "./img/WilderFury1.jpg";
 import WilderFury2 from "./img/WilderFury2.jpg";
+import RZJS from "./img/RZJS.jpg";
+import RZDJ from "./img/RZDJ.jpg";
+import LomaczenkoLopez from "./img/LomaczenkoLopez.jpg";
 
 export const fights = [
   {
@@ -263,6 +266,57 @@ export const fights = [
       <a
         className="youTubeLink"
         href="https://www.youtube.com/watch?v=M3ljICMuCP4"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Play On YouTube
+      </a>
+    ),
+  },
+
+  {
+    id: 16,
+    image: RZDJ,
+    title: "Radosław Zamojski vs. Dawid Jakubcewicz",
+    description: "Radosław Zamojski(RKS) vs. Dawid Jakubcewicz (Włókiennik)",
+    button: (
+      <a
+        className="youTubeLink"
+        href="https://www.youtube.com/watch?v=7lhVRsC9vHQ"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Play On YouTube
+      </a>
+    ),
+  },
+  {
+    id: 17,
+    image: RZJS,
+    title: "Radosław Zamojski vs. Jakub Surma",
+    description:
+      "Radosław Zamojski (RKS Łódź) vs. Jakub Surma (Skalnik Wiśniówka)",
+    button: (
+      <a
+        className="youTubeLink"
+        href="https://www.youtube.com/watch?v=UlI5Jf5n4_w"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Play On YouTube
+      </a>
+    ),
+  },
+
+  {
+    id: 18,
+    image: LomaczenkoLopez,
+    title: "Vasily Lomachenko vs. Teofimo Lopez",
+    description: "Vasily Lomachenko vs. Teofimo Lopez.Full Fight",
+    button: (
+      <a
+        className="youTubeLink"
+        href="https://www.youtube.com/watch?v=aaaISwTD9ZY"
         target="_blank"
         rel="noopener noreferrer"
       >

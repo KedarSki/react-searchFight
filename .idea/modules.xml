@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../react-login-page/.idea/react-login-page.iml" filepath="$PROJECT_DIR$/../react-login-page/.idea/react-login-page.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/react-searchFight.iml" filepath="$PROJECT_DIR$/.idea/react-searchFight.iml" />
     </modules>
   </component>

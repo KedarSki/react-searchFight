@@ -14,8 +14,7 @@ const App = () => {
   return (
     <Container className={"cont"}>
       <Header />
-      <Search onSearch={userSearched} />
-      <Catalog term={searchTerm} />
+      <Search onSearch={userSearched} /> <Catalog term={searchTerm} />{" "}
     </Container>
   );
 };

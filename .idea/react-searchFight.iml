@@ -9,5 +9,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="react-grupa-2" />
+    <orderEntry type="module" module-name="Formularz" />
+    <orderEntry type="module" module-name="react-login-page" />
   </component>
 </module>
